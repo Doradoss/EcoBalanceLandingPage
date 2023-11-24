@@ -120,22 +120,12 @@ h1{
     text-align: justify;
 }
 
-.btnBanner1{
+.btnBanner{
     background: #045753;
     color: #fff;
     padding: 10px 20px;
     border-radius: 25px;
     text-decoration: none;
-
-}
-
-.btnBanner2{
-    background: #045753;
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 25px;
-    text-decoration: none;
-    margin-left: 20px;
 
 }
 
